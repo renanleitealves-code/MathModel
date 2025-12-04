@@ -1,4 +1,4 @@
-# 数学建模资源
+ 数学建模资源
 
 ## 更新模块 
 * 更新 **[2024年优秀论文](https://pan.baidu.com/s/1uxhi5n47ZsLm9fU1xqpS3g)，key:`opr4`** 
